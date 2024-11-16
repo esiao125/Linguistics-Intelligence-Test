@@ -17,4 +17,4 @@ Test scores on second occasion: 71, 65, 61, 59, 52, 49, 40: average 56.71
 
 ### ← Linguistics Intelligence Test.py
 
-Written in Python, this is where the user is prompted for a response given four outputs and gets a intelligence score based on thier answers.
+Written in Python, this is where the user is prompted for a response given four outputs and gets a intelligence score based on their answers.
